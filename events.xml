@@ -1,5 +1,18 @@
 <events>
   <event>
-    <url>https://raw.githubusercontent.com/vgvassilev/hepcon-config/master/event_details/587955.xml</url>
+    <details>https://raw.githubusercontent.com/vgvassilev/hepcon-config/master/event_details/587955.xml</details>
+    <url>https://indico.cern.ch/export/timetable/587955.xml</url>
+    <name>CHEP 2018</name>
+    <location>Sofia</location>
+    <startTime>2018-07-09</startTime>
+    <endTime>2018-07-13</endTime>
+  </event>
+  <event>
+    <details>https://raw.githubusercontent.com/vgvassilev/hepcon-config/master/event_details/681549.xml</details>
+    <url>https://indico.cern.ch/export/timetable/681549.xml</url>
+    <name>LHCP 2018</name>
+    <location>Bologna</location>
+    <startTime>2018-06-04</startTime>
+    <endTime>2018-06-09</endTime>
   </event>
 </events>
