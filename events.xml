@@ -1,5 +1,6 @@
 <events>
   <event>
+    <id>587955</id>
     <details>https://raw.githubusercontent.com/vgvassilev/hepcon-config/master/event_details/587955.xml</details>
     <url>https://indico.cern.ch/export/timetable/587955.xml</url>
     <name>CHEP 2018</name>
@@ -8,6 +9,7 @@
     <endDate>2018-07-13</endDate>
   </event>
   <event>
+    <id>681549</id>
     <details>https://raw.githubusercontent.com/vgvassilev/hepcon-config/master/event_details/681549.xml</details>
     <url>https://indico.cern.ch/export/timetable/681549.xml</url>
     <name>LHCP 2018</name>
