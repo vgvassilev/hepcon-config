@@ -1,7 +1,7 @@
 <events>
   <event>
     <id>587955</id>
-    <details>https://raw.githubusercontent.com/vgvassilev/hepcon-config/master/event_details/587955.xml</details>
+    <details>https://raw.githubusercontent.com/mvassilev/hepcon-config/master/event_details/587955.xml</details>
     <url>https://indico.cern.ch/export/timetable/587955.xml</url>
     <name>CHEP 2018</name>
     <location>Sofia</location>
@@ -10,7 +10,7 @@
   </event>
   <event>
     <id>681549</id>
-    <details>https://raw.githubusercontent.com/vgvassilev/hepcon-config/master/event_details/681549.xml</details>
+    <details>https://raw.githubusercontent.com/mvassilev/hepcon-config/master/event_details/681549.xml</details>
     <url>https://indico.cern.ch/export/timetable/681549.xml</url>
     <name>LHCP 2018</name>
     <location>Bologna</location>
