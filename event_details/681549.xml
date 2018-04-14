@@ -23,12 +23,16 @@
       <level>1</level>
     </sponsor>
   </sponsors>
-    <floors>
+  <floors>
     <floor>
       <title>Bologna Test Floor Map</title>
       <mapUrl>http://chep2018.org/sites/default/files/floors.png</mapUrl>
     </floor>
   </floors>
+  <wifi>
+    <ssid>HEPCon</ssid>
+    <password>HEPCon2018</password>
+  </wifi>
   <iacPersons>
     <iacPerson>
       <name>Torsten Åkesson</name>

@@ -56,6 +56,10 @@
       <mapUrl>http://chep2018.org/sites/default/files/floors.png</mapUrl>
     </floor>
   </floors>
+  <wifi>
+    <ssid>HEPCon</ssid>
+    <password>HEPCon2018</password>
+  </wifi>
   <iacPersons>
     <iacPerson>
       <name>Alessandra Forti 12 (PC Deputy Chair)</name>
