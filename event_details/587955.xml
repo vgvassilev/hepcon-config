@@ -50,7 +50,12 @@
       <level>1</level>
     </sponsor>
   </sponsors>
-
+  <floors>
+    <floor>
+      <title>NDK Floor</title>
+      <mapUrl>http://chep2018.org/sites/default/files/floors.png</mapUrl>
+    </floor>
+  </floors>
   <iacPersons>
     <iacPerson>
       <name>Alessandra Forti 12 (PC Deputy Chair)</name>

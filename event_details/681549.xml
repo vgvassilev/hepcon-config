@@ -23,6 +23,12 @@
       <level>1</level>
     </sponsor>
   </sponsors>
+    <floors>
+    <floor>
+      <title>Bologna Test Floor Map</title>
+      <mapUrl>http://chep2018.org/sites/default/files/floors.png</mapUrl>
+    </floor>
+  </floors>
   <iacPersons>
     <iacPerson>
       <name>Torsten Åkesson</name>
