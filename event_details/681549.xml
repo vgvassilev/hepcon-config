@@ -30,8 +30,8 @@
     </floor>
   </floors>
   <wifi>
-    <ssid>HEPCon</ssid>
-    <password>HEPCon2018</password>
+    <ssid>LHCPCon</ssid>
+    <password>LHCPCon2018</password>
   </wifi>
   <iacPersons>
     <iacPerson>
