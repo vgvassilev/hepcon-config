@@ -7,7 +7,6 @@
     <location>Sofia</location>
     <startDate>2018-07-09</startDate>
     <endDate>2018-07-13</endDate>
-    <timezone>02:00</timezone>
   </event>
   <event>
     <id>681549</id>
@@ -17,6 +16,5 @@
     <location>Bologna</location>
     <startDate>2018-06-04</startDate>
     <endDate>2018-06-09</endDate>
-    <timezone>01:00</timezone>
   </event>
 </events>
