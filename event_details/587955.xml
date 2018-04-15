@@ -60,6 +60,7 @@
     <ssid>HEPConSofia2018</ssid>
     <password>HEPConSofia2018</password>
   </wifi>
+  <timezone>Europe/Sofia</timezone>
   <iacPersons>
     <iacPerson>
       <name>Alessandra Forti (PC Deputy Chair)</name>
