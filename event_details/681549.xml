@@ -19,7 +19,7 @@
       <name>Alma Mater Studiorum Universita Di Bologna</name>
       <image>http://lhcp2018.bo.infn.it/images/alma-mater_25.png</image>
       <description>Alma Mater Studiorum Universita Di Bologna.</description>
-      <website>air-watch.com</website>
+      <website>http://www.unibo.it/en</website>
       <level>1</level>
     </sponsor>
   </sponsors>
@@ -236,8 +236,8 @@
     </locPerson>
     <locPerson>
       <name>Antonio Zoccoli</name>
-      <subtitle>Univ. &amp;amp; INFN, Bologna</subtitle>
+      <subtitle>Univ. &amp; INFN, Bologna</subtitle>
     </locPerson>
   </locPersons>
-  <codeConduct>code of conduct lhcp2018</codeConduct>
+  <codeConduct>TODO: Code Of Conduct LHCP 2018</codeConduct>
 </hepcon>
