@@ -279,7 +279,7 @@
     </locPerson>
     <locPerson>
       <name>Tzveta Apostolova</name>
-      <subtitle>IAPS &amp;amp; BAS</subtitle>
+      <subtitle>IAPS &amp; BAS</subtitle>
     </locPerson>
     <locPerson>
       <name>Miroslav Borshosh</name>
@@ -307,7 +307,7 @@
     </locPerson>
     <locPerson>
       <name>Stoyan Mishev</name>
-      <subtitle>IAPS &amp;amp; JINR</subtitle>
+      <subtitle>IAPS &amp; JINR</subtitle>
     </locPerson>
     <locPerson>
       <name>Daniela Orozova</name>
@@ -326,5 +326,5 @@
       <subtitle>CERN-IT</subtitle>
     </locPerson>
   </locPersons>
-  <codeConduct>code of conduct chep2018</codeConduct>
+  <codeConduct>TODO: Code of Conduct CHEP 2018</codeConduct>
 </hepcon>
