@@ -2,8 +2,9 @@
   <notifications>
     <notification>
       <date>2018-03-14T19:20:30</date>
-      <text>03-14 Bologna</text>
+      <text>Welcome to LHCP 2018!</text>
     </notification>
+  </notifications>
   <venueLocations>
     <venueLocation>
       <title>Bologna</title>
@@ -12,278 +13,231 @@
       <latitude>44.50051</latitude>
       <longitude>11.30478</longitude>
     </venueLocation>
+  </venueLocations>
   <sponsors>
     <sponsor>
-      <name>AirWatch</name>
-      <image>https://s3.amazonaws.com/blog.xamarin.com/wp-content/uploads/2016/03/16193046/Airwatch.png</image>
-      <description>AirWatch by VMware is the leader in enterprise mobility management, with more than 16,000 global customers. The AirWatch platform includes industry-leading mobile device, email, application, content and browser management solutions. Organizations can implement these solutions across device types and use cases, including complete EMM for corporate and line of business deployments, and containerized solutions for bring your own device (BYOD) programs.</description>
-      <website>air-watch.com</website>
+      <name>Alma Mater Studiorum Universita Di Bologna</name>
+      <image>http://lhcp2018.bo.infn.it/images/alma-mater_25.png</image>
+      <description>Alma Mater Studiorum Universita Di Bologna.</description>
+      <website>http://www.unibo.it/en</website>
       <level>1</level>
     </sponsor>
   </sponsors>
+  <floors>
+    <floor>
+      <title>Bologna Test Floor Map</title>
+      <mapUrl>http://chep2018.org/sites/default/files/Level8.png</mapUrl>
+    </floor>
+  </floors>
+  <wifi>
+    <ssid>LHCPCon</ssid>
+    <password>LHCPCon2018</password>
+  </wifi>
+  <twitterHashtag>#lhcp</twitterHashtag>
   <iacPersons>
     <iacPerson>
-      <name>Alessandra Forti 12 (PC Deputy Chair)</name>
-      <subtitle>University of Manchester, ATLAS</subtitle>
+      <name>Torsten Åkesson</name>
+      <subtitle>Lund Univ.</subtitle>
     </iacPerson>
     <iacPerson>
-      <name>Amber Boehnlein</name>
-      <subtitle>JLAB</subtitle>
+      <name>Charalampos Anastasiou</name>
+      <subtitle>ETH, Zurich</subtitle>
     </iacPerson>
     <iacPerson>
-      <name>Borut Kersevan</name>
-      <subtitle>U Ljubljana, ATLAS</subtitle>
+      <name>Federico Antinori</name>
+      <subtitle>INFN, Padua</subtitle>
     </iacPerson>
     <iacPerson>
-      <name>Daniele Bonacorsi</name>
-      <subtitle>U Bologna/INFN, CMS</subtitle>
+      <name>Gregorio Bernardi</name>
+      <subtitle>LPNHE-Paris</subtitle>
     </iacPerson>
     <iacPerson>
-      <name>David Groep</name>
-      <subtitle>NIKHEF, LHCB</subtitle>
+      <name>Joel Butler</name>
+      <subtitle>FNAL, Batavia</subtitle>
     </iacPerson>
     <iacPerson>
-      <name>David Malon</name>
-      <subtitle>ANL, ATLAS</subtitle>
+      <name>Florencia Canelli</name>
+      <subtitle>Zurich Univ.</subtitle>
     </iacPerson>
     <iacPerson>
-      <name>Elizabeth S Sexton-Kennedy</name>
-      <subtitle>FNAL, CMS</subtitle>
+      <name>Marcela Carena</name>
+      <subtitle>FNAL, UChicago</subtitle>
     </iacPerson>
     <iacPerson>
-      <name>Federico Carminati</name>
-      <subtitle>CERN, SFT</subtitle>
+      <name>Zaida Conesa del Valle</name>
+      <subtitle>IPN, Orsay</subtitle>
     </iacPerson>
     <iacPerson>
-      <name>Gang Chen</name>
-      <subtitle>IHEP, RE1</subtitle>
+      <name>Anna Di Ciaccio</name>
+      <subtitle>Univ. of Rome Tor Vergata &amp; INFN</subtitle>
     </iacPerson>
     <iacPerson>
-      <name>Ghita Rahal</name>
-      <subtitle>CNRS/IN2P3, ATLAS</subtitle>
+      <name>Eckhard Elsen</name>
+      <subtitle></subtitle>
     </iacPerson>
     <iacPerson>
-      <name>Graeme Stewart</name>
-      <subtitle>CERN, SFT</subtitle>
+      <name>Andrei Golutvin</name>
+      <subtitle>IC London</subtitle>
     </iacPerson>
     <iacPerson>
-      <name>Ian Bird</name>
-      <subtitle>CERN, LCG</subtitle>
+      <name>Paul Grannis</name>
+      <subtitle>Stony Brook Univ.</subtitle>
     </iacPerson>
     <iacPerson>
-      <name>Jeff Templon</name>
-      <subtitle>NIKHEF</subtitle>
+      <name>Beate Heinemann</name>
+      <subtitle>DESY, Univ. of Freiburg</subtitle>
     </iacPerson>
     <iacPerson>
-      <name>Jerome Lauret</name>
-      <subtitle>BNL, STAR</subtitle>
+      <name>Karl Jakobs</name>
+      <subtitle>Univ. of Freiburg</subtitle>
     </iacPerson>
     <iacPerson>
-      <name>Latchezar Betev (PC Chair)</name>
-      <subtitle>CERN, ALICE</subtitle>
+      <name>Shan Jin</name>
+      <subtitle>Nanjing Univ.</subtitle>
     </iacPerson>
     <iacPerson>
-      <name>Maarten Litmaath (PC Deputy Chair)</name>
-      <subtitle>CERN, LCG</subtitle>
+      <name>Victor Kim</name>
+      <subtitle>PNPI, Gatchina</subtitle>
     </iacPerson>
     <iacPerson>
-      <name>Marco Cattaneo</name>
-      <subtitle>CERN, LHCB</subtitle>
+      <name>Leif Lonnblad</name>
+      <subtitle>Lund Univ.</subtitle>
     </iacPerson>
     <iacPerson>
-      <name>Maria Girone</name>
-      <subtitle>CERN, OpenLab CTO, CMS</subtitle>
+      <name>Guenakh Mitselmakher</name>
+      <subtitle>Univ. of Florida</subtitle>
     </iacPerson>
     <iacPerson>
-      <name>Mohammad Al-Turany</name>
-      <subtitle>GSI, FAIR-IT</subtitle>
+      <name>Paolo Nason</name>
+      <subtitle>INFN, Milano Bicocca</subtitle>
     </iacPerson>
     <iacPerson>
-      <name>Niko Neufeld</name>
-      <subtitle>CERN, LHCb</subtitle>
+      <name>Giovanni Passaleva</name>
+      <subtitle>INFN, Firenze</subtitle>
     </iacPerson>
     <iacPerson>
-      <name>Oxana Smirnova (PC Deputy Chair)</name>
-      <subtitle>Lund, ATLAS</subtitle>
+      <name>Nadia Pastrone</name>
+      <subtitle>INFN, Torino</subtitle>
     </iacPerson>
     <iacPerson>
-      <name>Patrick Fuhrmann</name>
-      <subtitle>DESY</subtitle>
+      <name>Monica Pepe-Altarelli</name>
+      <subtitle>CERN</subtitle>
     </iacPerson>
     <iacPerson>
-      <name>Paul Jackson</name>
-      <subtitle>CHEP 2019 Organizer</subtitle>
+      <name>Giovanni Punzi</name>
+      <subtitle>Univ. &amp; INFN, Pisa</subtitle>
     </iacPerson>
     <iacPerson>
-      <name>Pere Mato Vila</name>
-      <subtitle>CERN, SFT</subtitle>
+      <name>Srini Rajagopalan</name>
+      <subtitle>BNL, Upton</subtitle>
     </iacPerson>
     <iacPerson>
-      <name>Peter Clarke</name>
-      <subtitle>U Edinburgh, LHCb</subtitle>
+      <name>Laura Reina</name>
+      <subtitle>Florida State U.</subtitle>
     </iacPerson>
     <iacPerson>
-      <name>Peter Elmer</name>
-      <subtitle>Princeton, CMS</subtitle>
+      <name>Enrico Scomparin</name>
+      <subtitle>INFN, Torino</subtitle>
     </iacPerson>
     <iacPerson>
-      <name>Peter Hristov</name>
-      <subtitle>CERN, ALICE</subtitle>
+      <name>Paris Sphicas</name>
+      <subtitle>CERN &amp; Athens</subtitle>
     </iacPerson>
     <iacPerson>
-      <name>Petya Vasileva</name>
-      <subtitle>CERN, ATLAS</subtitle>
+      <name>Katsuo Tokushuku</name>
+      <subtitle>KEK, Tsukuba</subtitle>
     </iacPerson>
     <iacPerson>
-      <name>Predrag Buncic</name>
-      <subtitle>CERN, ALICE</subtitle>
+      <name>Mike Tuts</name>
+      <subtitle>Columbia Univ.</subtitle>
     </iacPerson>
     <iacPerson>
-      <name>Reda Tafirout</name>
-      <subtitle>TRIUMF, ATLAS</subtitle>
+      <name>Isabelle Wingerter-Seez</name>
+      <subtitle>LAPP-Annecy</subtitle>
     </iacPerson>
     <iacPerson>
-      <name>Richard Mount</name>
-      <subtitle>SLAC, Emeritus</subtitle>
-    </iacPerson>
-    <iacPerson>
-      <name>Simon Lin</name>
-      <subtitle>Academia Sinica</subtitle>
-    </iacPerson>
-    <iacPerson>
-      <name>Simone Campana</name>
-      <subtitle>CERN, LCG</subtitle>
-    </iacPerson>
-    <iacPerson>
-      <name>Stefan Roiser</name>
-      <subtitle>CERN, LHCB</subtitle>
-    </iacPerson>
-    <iacPerson>
-      <name>Takanori Hara</name>
-      <subtitle>KEK, Belle II</subtitle>
-    </iacPerson>
-    <iacPerson>
-      <name>Thomas Kuhr</name>
-      <subtitle>LMU Munich, Belle II</subtitle>
-    </iacPerson>
-    <iacPerson>
-      <name>Thorsten Kollegger</name>
-      <subtitle>GSI, ALICE</subtitle>
-    </iacPerson>
-    <iacPerson>
-      <name>Tobias Stockmanns</name>
-      <subtitle>Juelich, PANDA</subtitle>
-    </iacPerson>
-    <iacPerson>
-      <name>Tommaso Boccali</name>
-      <subtitle>INFN Pisa, CMS</subtitle>
-    </iacPerson>
-    <iacPerson>
-      <name>Tomoaki Nakamura</name>
-      <subtitle>KEK</subtitle>
-    </iacPerson>
-    <iacPerson>
-      <name>Vassil Vassilev</name>
-      <subtitle>Princeton, CMS</subtitle>
-    </iacPerson>
-    <iacPerson>
-      <name>Vladimir Korenkov</name>
-      <subtitle>JINR</subtitle>
-    </iacPerson>
-    <iacPerson>
-      <name>Waseem Kamleh</name>
-      <subtitle>CHEP 2019 Organizer</subtitle>
+      <name>Haijun Yang</name>
+      <subtitle>SJTU, Shanghai</subtitle>
     </iacPerson>
   </iacPersons>
   
   <locPersons>
     <locPerson>
-      <name>Adriana13 Telesca</name>
-      <subtitle>CERN, ALICE</subtitle>
+      <name>Elena Amadei</name>
+      <subtitle>INFN, Bologna</subtitle>
     </locPerson>
     <locPerson>
-      <name>Alexander Penev</name>
-      <subtitle>PU, </subtitle>
+      <name>Pietro Antonioli</name>
+      <subtitle>INFN, Bologna</subtitle>
     </locPerson>
     <locPerson>
-      <name>Anna Yaneva</name>
-      <subtitle>CERN, CMS</subtitle>
+      <name>Lorenzo Bellagamba</name>
+      <subtitle>INFN, Bologna</subtitle>
     </locPerson>
     <locPerson>
-      <name>Desislava Nikolova</name>
-      <subtitle>NDK, </subtitle>
+      <name>Graziano Bruni</name>
+      <subtitle>INFN, Bologna</subtitle>
     </locPerson>
     <locPerson>
-      <name>Gancho Dimitrov</name>
-      <subtitle>CERN, ATLAS</subtitle>
+      <name>Angelo Carbone</name>
+      <subtitle>Univ. &amp; INFN, Bologna</subtitle>
     </locPerson>
     <locPerson>
-      <name>Evelina Ananieva</name>
-      <subtitle>MFA, </subtitle>
+      <name>Roberto Casadio</name>
+      <subtitle>Univ. &amp; INFN, Bologna</subtitle>
     </locPerson>
     <locPerson>
-      <name>Latchezar Betev</name>
-      <subtitle>CERN, ALICE</subtitle>
+      <name>Andrea Castro</name>
+      <subtitle>Univ &amp; INFN, Bologna</subtitle>
     </locPerson>
     <locPerson>
-      <name>Martin Vasilev</name>
-      <subtitle>PU, </subtitle>
+      <name>Fabrizio Fabbri</name>
+      <subtitle>INFN, Bologna</subtitle>
     </locPerson>
     <locPerson>
-      <name>Steven Goldfarb</name>
-      <subtitle>CERN, ATLAS</subtitle>
+      <name>Laura Fabbri</name>
+      <subtitle>Univ. &amp; INFN, Bologna</subtitle>
     </locPerson>
     <locPerson>
-      <name>Ivelina Todorova</name>
-      <subtitle>5PT</subtitle>
+      <name>Paolo Giacomelli</name>
+      <subtitle>INFN, Bologna</subtitle>
     </locPerson>
     <locPerson>
-      <name>Tzveta Apostolova</name>
-      <subtitle>IAPS &amp;amp; BAS</subtitle>
+      <name>Rosario Nania</name>
+      <subtitle>INFN, Bologna</subtitle>
     </locPerson>
     <locPerson>
-      <name>Miroslav Borshosh</name>
-      <subtitle>NDK</subtitle>
+      <name>Andrea Perrotta</name>
+      <subtitle>INFN, Bologna</subtitle>
     </locPerson>
     <locPerson>
-      <name>Galya Hristozova</name>
-      <subtitle>BFU</subtitle>
+      <name>Eugenio Scapparrone</name>
+      <subtitle>INFN, Bologna</subtitle>
     </locPerson>
     <locPerson>
-      <name>Plamen Iaydjiev</name>
-      <subtitle>INRNE - BAS</subtitle>
+      <name>Francesca Scianitti</name>
+      <subtitle>INFN, Presidenza</subtitle>
     </locPerson>
     <locPerson>
-      <name>Nevena Ilieva</name>
-      <subtitle>IICT - BAS</subtitle>
+      <name>Gilda Scioli</name>
+      <subtitle>Univ. &amp; INFN, Bologna</subtitle>
     </locPerson>
     <locPerson>
-      <name>Venelin Kozhuharov</name>
-      <subtitle>SU</subtitle>
+      <name>Nicola Semprini</name>
+      <subtitle>Univ. &amp; INFN, Bologna</subtitle>
     </locPerson>
     <locPerson>
-      <name>Leandar Litov</name>
-      <subtitle>SU</subtitle>
+      <name>Barbara Simoni</name>
+      <subtitle>INFN, Bologna</subtitle>
     </locPerson>
     <locPerson>
-      <name>Stoyan Mishev</name>
-      <subtitle>IAPS &amp;amp; JINR</subtitle>
+      <name>Vincenzo Vagnoni</name>
+      <subtitle>INFN, Bologna</subtitle>
     </locPerson>
     <locPerson>
-      <name>Daniela Orozova</name>
-      <subtitle>BFU</subtitle>
-    </locPerson>
-    <locPerson>
-      <name>Todor Tchobanov</name>
-      <subtitle>SM</subtitle>
-    </locPerson>
-    <locPerson>
-      <name>Georgi Tekev</name>
-      <subtitle>NBU</subtitle>
-    </locPerson>
-    <locPerson>
-      <name>Zhechka Toteva</name>
-      <subtitle>CERN-IT</subtitle>
+      <name>Antonio Zoccoli</name>
+      <subtitle>Univ. &amp; INFN, Bologna</subtitle>
     </locPerson>
   </locPersons>
+  <codeConduct>TODO: Code Of Conduct LHCP 2018</codeConduct>
 </hepcon>

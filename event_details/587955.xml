@@ -43,17 +43,27 @@
   </venueLocations>
   <sponsors>
     <sponsor>
-      <name>AirWatch</name>
-      <image>https://s3.amazonaws.com/blog.xamarin.com/wp-content/uploads/2016/03/16193046/Airwatch.png</image>
-      <description>AirWatch by VMware is the leader in enterprise mobility management, with more than 16,000 global customers. The AirWatch platform includes industry-leading mobile device, email, application, content and browser management solutions. Organizations can implement these solutions across device types and use cases, including complete EMM for corporate and line of business deployments, and containerized solutions for bring your own device (BYOD) programs.</description>
-      <website>air-watch.com</website>
+      <name>Test Sponsor</name>
+      <image>http://chep2018.org/sites/default/files/ndk-logo-black.png</image>
+      <description>Test Sponsor</description>
+      <website>http://chep2018.org</website>
       <level>1</level>
     </sponsor>
   </sponsors>
-
+  <floors>
+    <floor>
+      <title>NDK Floor</title>
+      <mapUrl>http://chep2018.org/sites/default/files/Level1.png</mapUrl>
+    </floor>
+  </floors>
+  <wifi>
+    <ssid>HEPConSofia2018</ssid>
+    <password>HEPConSofia2018</password>
+  </wifi>
+  <twitterHashtag>#chep2018</twitterHashtag>
   <iacPersons>
     <iacPerson>
-      <name>Alessandra Forti 12 (PC Deputy Chair)</name>
+      <name>Alessandra Forti (PC Deputy Chair)</name>
       <subtitle>University of Manchester, ATLAS</subtitle>
     </iacPerson>
     <iacPerson>
@@ -228,7 +238,7 @@
   
   <locPersons>
     <locPerson>
-      <name>Adriana13 Telesca</name>
+      <name>Adriana Telesca</name>
       <subtitle>CERN, ALICE</subtitle>
     </locPerson>
     <locPerson>
@@ -269,7 +279,7 @@
     </locPerson>
     <locPerson>
       <name>Tzveta Apostolova</name>
-      <subtitle>IAPS &amp;amp; BAS</subtitle>
+      <subtitle>IAPS &amp; BAS</subtitle>
     </locPerson>
     <locPerson>
       <name>Miroslav Borshosh</name>
@@ -297,7 +307,7 @@
     </locPerson>
     <locPerson>
       <name>Stoyan Mishev</name>
-      <subtitle>IAPS &amp;amp; JINR</subtitle>
+      <subtitle>IAPS &amp; JINR</subtitle>
     </locPerson>
     <locPerson>
       <name>Daniela Orozova</name>
@@ -316,4 +326,5 @@
       <subtitle>CERN-IT</subtitle>
     </locPerson>
   </locPersons>
+  <codeConduct>TODO: Code of Conduct CHEP 2018</codeConduct>
 </hepcon>
