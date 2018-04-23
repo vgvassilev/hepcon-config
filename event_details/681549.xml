@@ -43,7 +43,8 @@
       <website>https://home.cern/</website>
       <level>1</level>
     </sponsor>
-    <floors>
+  </sponsors>
+  <floors>
     <floor>
       <title>Bologna Test Floor Map</title>
       <mapUrl>http://chep2018.org/sites/default/files/Level8.png</mapUrl>
