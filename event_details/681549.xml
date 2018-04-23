@@ -7,12 +7,19 @@
   </notifications>
   <venueLocations>
     <venueLocation>
-      <title>Bologna</title>
-      <activity>Conference Center</activity>
-      <address>Bologna, Italy</address>
-      <latitude>44.50051</latitude>
-      <longitude>11.30478</longitude>
+      <title>LHCP 2018 Conference Site</title>
+      <activity>Convento San Domenico</activity>
+      <address>Piazza San Domenico, Bologna, Italy</address>
+      <latitude>44.489529</latitude>
+      <longitude>11.343978</longitude>
     </venueLocation>
+    <venueLocation>
+      <title>LHCP 2018 Social Dinner</title>
+      <activity>Corte Isolani</activity>
+      <address>Piazza Santo Stefano, Bologna, Italy</address>
+      <latitude>44.492431</latitude>
+      <longitude>11.348294</longitude>
+    </venueLocation>    
   </venueLocations>
   <sponsors>
     <sponsor>
@@ -20,6 +27,20 @@
       <image>http://lhcp2018.bo.infn.it/images/alma-mater_25.png</image>
       <description>Alma Mater Studiorum Universita Di Bologna.</description>
       <website>http://www.unibo.it/en</website>
+      <level>1</level>
+    </sponsor>
+    <sponsor>
+      <name>Istituto Nazionale di Fisica Nucleare</name>
+      <image>http://lhcp2018.bo.infn.it/images/logo_infn.jpg</image>
+      <description>Istituto Nazionale di Fisica Nucleare</description>
+      <website>http://home.infn.it/en/</website>
+      <level>1</level>
+    </sponsor>
+    <sponsor>
+      <name>CERN</name>
+      <image>http://lhcp2018.bo.infn.it/images/cern-logo.png</image>
+      <description>CERN</description>
+      <website>https://home.cern/</website>
       <level>1</level>
     </sponsor>
   </sponsors>
