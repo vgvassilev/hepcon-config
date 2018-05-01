@@ -326,5 +326,9 @@
       <subtitle>CERN-IT</subtitle>
     </locPerson>
   </locPersons>
-  <codeConduct>TODO: Code of Conduct CHEP 2018</codeConduct>
+  <codeConduct>The CHEP Conference is a community event intended for presentations, networking and collaboration as well as learning. We value a civil and respectful environment which encourages the free expression and exchange of scientific ideas.
+    
+    
+    Should a lapse of professional decorum occur (such as discrimination or harassment), attendees are encouraged to bring issues, in a confidential setting, to the advisors appointed by the conference organizers. The advisors will suggest ways of redressing the matter and counsel the parties involved. The conference organizers may, after due consideration, take action as they deem appropriate, including, in severe cases, expulsion from the conference without refund.
+</codeConduct>
 </hepcon>
