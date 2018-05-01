@@ -1,7 +1,8 @@
-# hepcon-config
-Register your indico event
+# What is hepcon-config for
 
-# HEPCon - the High-Energy Physics Conference Mobile App!
+The hepcon-config github repository contains configuration files for the [HEPCon App](#hepcon---the-high-energy-physics-conference-mobile-app). The configuration files are two kinds: enabling configurations and extended configurations. The enabling configuration files are used to register an [indico](http://indico.cern.ch/) event to the mobile app. The extended configuration files are used to provide information which is not structurally available in indico such as sponsorship information and event venue location.
+
+# HEPCon - the High-Energy Physics Conference Mobile App
 
 ![](art/apps.png)
 
