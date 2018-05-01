@@ -51,3 +51,11 @@ HEPCon 2.0 is available in Apple Store and Google Play.
 * [Martin Vassilev](http://github.com/mvassilev)
 * [Petya Vassileva](http://github.com/ppetrova)
 * [Vassil Vassilev](http://github.com/vgvassilev)
+
+
+# Help us improve HEPCon
+
+We have developed the application without any support except for a minimal amount of money foreseen in the budget of [CHEP2018](http://chep2018.org/). If you like the application and want to ensure its sustainable development you could help us by making a donation.
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=N8VLH4LERX7GA&lc=BG&item_name=Sponsor%20HEPCon%20Development&currency_code=EUR&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted)
+
