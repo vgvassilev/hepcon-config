@@ -1,6 +1,11 @@
-# What is hepcon-config for
+# What is hepcon-config For
 
 The hepcon-config github repository contains configuration files for the [HEPCon App](#hepcon---the-high-energy-physics-conference-mobile-app). The configuration files are two kinds: enabling configurations and extended configurations. The enabling configuration files are used to register an [indico](http://indico.cern.ch/) event to the mobile app. The extended configuration files are used to provide information which is not structurally available in indico such as sponsorship information and event venue location.
+
+# Big Events Using the App
+
+  * [LHCP 2018](https://indico.cern.ch/event/681549) -- The 6th Annual Large Hadron Collider Physics Conference.
+  * [CHEP 2018](https://indico.cern.ch/event/587955) -- The 23rd International Conference on Computing in High-Energy and Nuclear Physics.
 
 # HEPCon - the High-Energy Physics Conference Mobile App
 
