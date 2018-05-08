@@ -1,4 +1,6 @@
 <hepcon>
+  <logoImage>http://chep2018.org/sites/default/files/ndk-logo-black.png</logoImage>
+  <coverImage>http://chep2018.org/sites/default/files/logo.jpg</coverImage>
   <notifications>
     <notification>
       <date>2018-03-14T19:20:30</date>
