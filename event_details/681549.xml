@@ -36,14 +36,14 @@
       <image>http://lhcp2018.bo.infn.it/images/logo_infn.jpg</image>
       <description>Istituto Nazionale di Fisica Nucleare</description>
       <website>http://home.infn.it/en/</website>
-      <level>1</level>
+      <tag>Example Tag 2</tag>
     </sponsor>
     <sponsor>
       <name>CERN</name>
       <image>http://lhcp2018.bo.infn.it/images/cern-logo.png</image>
       <description>CERN</description>
       <website>https://home.cern/</website>
-      <tag>Example Tag 2</tag>
+      <tag>Example Tag 3</tag>
     </sponsor>
   </sponsors>
   <floors>
