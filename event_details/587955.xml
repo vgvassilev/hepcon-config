@@ -1,4 +1,6 @@
 <hepcon>
+  <logoImage>http://chep2018.org/sites/default/files/ndk-logo-black.png</logoImage>
+  <coverImage>http://chep2018.org/sites/default/files/logo.jpg</coverImage>
   <notifications>
     <notification>
       <date>2018-03-14T19:20:30</date>
@@ -47,7 +49,7 @@
       <image>http://chep2018.org/sites/default/files/ndk-logo-black.png</image>
       <description>Test Sponsor</description>
       <website>http://chep2018.org</website>
-      <level>1</level>
+      <tag>Example Tag 1</tag>
     </sponsor>
   </sponsors>
   <floors>

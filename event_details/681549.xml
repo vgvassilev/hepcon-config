@@ -1,4 +1,6 @@
 <hepcon>
+  <logoImage>http://chep2018.org/sites/default/files/lhcp-logo.png</logoImage>
+  <coverImage>http://chep2018.org/sites/default/files/photo_poster_preview.jpeg</coverImage>
   <notifications>
     <notification>
       <date>2018-03-14T19:20:30</date>
@@ -27,21 +29,21 @@
       <image>http://lhcp2018.bo.infn.it/images/alma-mater_25.png</image>
       <description>Alma Mater Studiorum Universita Di Bologna.</description>
       <website>http://www.unibo.it/en</website>
-      <level>1</level>
+      <tag>Example Tag 1</tag>
     </sponsor>
     <sponsor>
       <name>Istituto Nazionale di Fisica Nucleare</name>
       <image>http://lhcp2018.bo.infn.it/images/logo_infn.jpg</image>
       <description>Istituto Nazionale di Fisica Nucleare</description>
       <website>http://home.infn.it/en/</website>
-      <level>1</level>
+      <tag>Example Tag 2</tag>
     </sponsor>
     <sponsor>
       <name>CERN</name>
       <image>http://lhcp2018.bo.infn.it/images/cern-logo.png</image>
       <description>CERN</description>
       <website>https://home.cern/</website>
-      <level>1</level>
+      <tag>Example Tag 3</tag>
     </sponsor>
      <sponsor>
       <name>Centro Fermi</name>
