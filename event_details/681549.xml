@@ -29,6 +29,7 @@
       <image>http://lhcp2018.bo.infn.it/images/alma-mater_25.png</image>
       <description>Alma Mater Studiorum Universita Di Bologna.</description>
       <website>http://www.unibo.it/en</website>
+      <level>1</level>
       <tag>Example Tag 1</tag>
     </sponsor>
     <sponsor>
@@ -36,6 +37,7 @@
       <image>http://lhcp2018.bo.infn.it/images/logo_infn.jpg</image>
       <description>Istituto Nazionale di Fisica Nucleare</description>
       <website>http://home.infn.it/en/</website>
+      <level>1</level>
       <tag>Example Tag 2</tag>
     </sponsor>
     <sponsor>
@@ -43,13 +45,15 @@
       <image>http://lhcp2018.bo.infn.it/images/cern-logo.png</image>
       <description>CERN</description>
       <website>https://home.cern/</website>
+      <level>1</level>
       <tag>Example Tag 3</tag>
     </sponsor>
-     <sponsor>
+    <sponsor>
       <name>Centro Fermi</name>
       <image>http://lhcp2018.bo.infn.it/images/logo_centrofermi.png</image>
       <description>Centro Fermi</description>
       <website>https://www.centrofermi.it/</website>
+      <level>1</level>
       <tag>Example Tag 1</tag>
     </sponsor>
     <sponsor>
@@ -57,6 +61,7 @@
       <image>http://lhcp2018.bo.infn.it/images/1200px-EPJ.png</image>
       <description>European Physical Journal (EPJ)</description>
       <website>https://www.epj.org/</website>
+      <level>1</level>
       <tag>Example Tag 1</tag>
     </sponsor>
     <sponsor>
@@ -64,6 +69,7 @@
       <image>http://lhcp2018.bo.infn.it/images/IUPAPLOGOBlue.jpg</image>
       <description>International Union of Pure and Applied Physics (IUPAP)</description>
       <website>http://iupap.org/</website>
+      <level>1</level>
       <tag>Example Tag 1</tag>
     </sponsor>
     <sponsor>
@@ -71,13 +77,15 @@
       <image>http://lhcp2018.bo.infn.it/images/SocietaItalianaFisicaCover.jpg</image>
       <description>Societa' Italiana di Fisica (SIF)</description>
       <website>https://en.sif.it/</website>
+      <level>1</level>
       <tag>Example Tag 1</tag>
     </sponsor>
-     <sponsor>
+    <sponsor>
       <name>Associazione Franco Rimondi</name>
       <image>http://lhcp2018.bo.infn.it/images/RimondiLogo.png</image>
       <description>Associazione Franco Rimondi</description>
       <website>https://sites.google.com/associazionefr.org/eng/home</website>
+      <level>1</level>
       <tag>Example Tag 1</tag>
     </sponsor>
     <sponsor>
@@ -85,6 +93,7 @@
       <image>http://lhcp2018.bo.infn.it/images/caen.jpg</image>
       <description>CAEN</description>
       <website>http://www.caen.it/</website>
+      <level>1</level>
       <tag>Example Tag 1</tag>
     </sponsor>
     <sponsor>
@@ -92,6 +101,7 @@
       <image>http://lhcp2018.bo.infn.it/images/linkengineering.jpg</image>
       <description>Link</description>
       <website>http://www.linkengineering.it/</website>
+      <level>1</level>
       <tag>Example Tag 1</tag>
     </sponsor>
     <sponsor>
@@ -99,6 +109,7 @@
       <image>http://lhcp2018.bo.infn.it/images/OCEM-Logo.jpg</image>
       <description>OCEM</description>
       <website>https://ocem.com/</website>
+      <level>1</level>
       <tag>Example Tag 1</tag>
     </sponsor>
   </sponsors>
