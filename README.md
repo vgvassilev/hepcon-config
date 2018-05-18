@@ -22,7 +22,7 @@ HEPCon can:
 
 ## Current release
 
-HEPCon 2.0 is available in Apple Store and Google Play.
+HEPCon 2.1 is available in Apple Store and Google Play.
 
 
 ## Screenshots
