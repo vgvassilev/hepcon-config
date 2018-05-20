@@ -21,7 +21,21 @@
       <address>Piazza Santo Stefano, Bologna, Italy</address>
       <latitude>44.492431</latitude>
       <longitude>11.348294</longitude>
-    </venueLocation>    
+    </venueLocation>
+    <venueLocation>
+      <title>Outreach Event (in Italian)</title>
+      <activity>Aula Magna Santa Lucia</activity>
+      <address>Via Castiglione 37, Bologna, Italy</address>
+      <latitude>44.4895534</latitude>
+      <longitude>11.3476291</longitude>
+    </venueLocation>
+    <venueLocation>
+      <title>Time Machine</title>
+      <activity>Virtual reality tour through Bologna's Middle Ages</activity>
+      <address>Via Zamboni 7, Bologna, Italy</address>
+      <latitude>44.4949626</latitude>
+      <longitude>11.3474478</longitude>
+    </venueLocation>  
   </venueLocations>
   <sponsors>
     <sponsor>
@@ -30,7 +44,7 @@
       <description>Alma Mater Studiorum Universita Di Bologna.</description>
       <website>http://www.unibo.it/en</website>
       <level>1</level>
-      <tag>Example Tag 1</tag>
+      <tag>Co-organizing Institution</tag>
     </sponsor>
     <sponsor>
       <name>Istituto Nazionale di Fisica Nucleare</name>
@@ -38,7 +52,7 @@
       <description>Istituto Nazionale di Fisica Nucleare</description>
       <website>http://home.infn.it/en/</website>
       <level>1</level>
-      <tag>Example Tag 2</tag>
+      <tag>Co-organizing Institution</tag>
     </sponsor>
     <sponsor>
       <name>CERN</name>
@@ -46,7 +60,7 @@
       <description>CERN</description>
       <website>https://home.cern/</website>
       <level>1</level>
-      <tag>Example Tag 3</tag>
+      <tag>Co-organizing Institution</tag>
     </sponsor>
     <sponsor>
       <name>Centro Fermi</name>
@@ -54,7 +68,7 @@
       <description>Centro Fermi</description>
       <website>https://www.centrofermi.it/</website>
       <level>1</level>
-      <tag>Example Tag 1</tag>
+      <tag>Supporting Institution</tag>
     </sponsor>
     <sponsor>
       <name>European Physical Journal (EPJ)</name>
@@ -62,7 +76,7 @@
       <description>European Physical Journal (EPJ)</description>
       <website>https://www.epj.org/</website>
       <level>1</level>
-      <tag>Example Tag 1</tag>
+      <tag>Supporting Institution</tag>
     </sponsor>
     <sponsor>
       <name>International Union of Pure and Applied Physics (IUPAP)</name>
@@ -70,7 +84,7 @@
       <description>International Union of Pure and Applied Physics (IUPAP)</description>
       <website>http://iupap.org/</website>
       <level>1</level>
-      <tag>Example Tag 1</tag>
+      <tag>Supporting Institution</tag>
     </sponsor>
     <sponsor>
       <name>Societa' Italiana di Fisica (SIF)</name>
@@ -78,7 +92,7 @@
       <description>Societa' Italiana di Fisica (SIF)</description>
       <website>https://en.sif.it/</website>
       <level>1</level>
-      <tag>Example Tag 1</tag>
+      <tag>Supporting Institution</tag>
     </sponsor>
     <sponsor>
       <name>Associazione Franco Rimondi</name>
@@ -86,7 +100,7 @@
       <description>Associazione Franco Rimondi</description>
       <website>https://sites.google.com/associazionefr.org/eng/home</website>
       <level>1</level>
-      <tag>Example Tag 1</tag>
+      <tag>Supporting Institution</tag>
     </sponsor>
     <sponsor>
       <name>CAEN</name>
@@ -94,7 +108,7 @@
       <description>CAEN</description>
       <website>http://www.caen.it/</website>
       <level>1</level>
-      <tag>Example Tag 1</tag>
+      <tag>Technical Sponsor</tag>
     </sponsor>
     <sponsor>
       <name>Link</name>
@@ -102,7 +116,7 @@
       <description>Link</description>
       <website>http://www.linkengineering.it/</website>
       <level>1</level>
-      <tag>Example Tag 1</tag>
+      <tag>Technical Sponsor</tag>
     </sponsor>
     <sponsor>
       <name>OCEM</name>
@@ -110,7 +124,7 @@
       <description>OCEM</description>
       <website>https://ocem.com/</website>
       <level>1</level>
-      <tag>Example Tag 1</tag>
+      <tag>Technical Sponsor</tag>
     </sponsor>
   </sponsors>
   <floors>
