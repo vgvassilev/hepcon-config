@@ -129,13 +129,17 @@
   </sponsors>
   <floors>
     <floor>
-      <title>Bologna Test Floor Map</title>
-      <mapUrl>http://chep2018.org/sites/default/files/Level8.png</mapUrl>
+      <title>Ground Floor Map</title>
+      <mapUrl>http://lhcp2018.bo.infn.it/images/PianoTerra.jpeg</mapUrl>
+    </floor>
+    <floor>
+      <title>First Floor Map</title>
+      <mapUrl>http://lhcp2018.bo.infn.it/images/PianoAlto.jpeg</mapUrl>
     </floor>
   </floors>
   <wifi>
-    <ssid>LHCPCon</ssid>
-    <password>LHCPCon2018</password>
+    <ssid>eduroam</ssid>
+    <password>*******</password>
   </wifi>
   <twitterHashtag>#LHCP2018</twitterHashtag>
   <iacPersons>
