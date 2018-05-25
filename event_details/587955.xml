@@ -45,12 +45,36 @@
   </venueLocations>
   <sponsors>
     <sponsor>
-      <name>Test Sponsor</name>
-      <image>http://chep2018.org/sites/default/files/ndk-logo-black.png</image>
-      <description>Test Sponsor</description>
+      <name>RHEA</name>
+      <image>http://chep2018.org/sites/default/files/rhea.png</image>
+      <description>RHEA</description>
       <website>http://chep2018.org</website>
       <level>1</level>
-      <tag>Example Tag 2</tag>
+      <tag>Platinum Sponsor</tag>
+    </sponsor>
+    <sponsor>
+      <name>T-Systems</name>
+      <image>http://chep2018.org/sites/default/files/t-systems.png</image>
+      <description>T-Systems</description>
+      <website>http://chep2018.org</website>
+      <level>1</level>
+      <tag>Platinum Sponsor</tag>
+    </sponsor>
+    <sponsor>
+      <name>ChaosGroup</name>
+      <image>http://chep2018.org/sites/default/files/chaosgroup.jpg</image>
+      <description>ChaosGroup</description>
+      <website>http://chaosgroup.com/</website>
+      <level>1</level>
+      <tag>Silver Sponsor</tag>
+    </sponsor>
+    <sponsor>
+      <name>Intel</name>
+      <image>http://chep2018.org//sites/default/files/intel-thumbnail.jpg</image>
+      <description>Intel</description>
+      <website>http://intel.com/</website>
+      <level>1</level>
+      <tag>Silver Sponsor</tag>
     </sponsor>
   </sponsors>
   <floors>
