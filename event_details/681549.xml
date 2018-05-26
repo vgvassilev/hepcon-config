@@ -1,5 +1,5 @@
 <hepcon>
-  <logoImage>http://chep2018.org/sites/default/files/lhcp-logo.png</logoImage>
+  <logoImage></logoImage>
   <coverImage>http://chep2018.org/sites/default/files/photo_poster_preview.jpeg</coverImage>
   <notifications>
     <notification>
@@ -212,12 +212,20 @@
       <subtitle>Lund Univ.</subtitle>
     </iacPerson>
     <iacPerson>
-      <name>Guenakh Mitselmakher</name>
+      <name>Guenakh Mitselmakher (IAC Chair)</name>
       <subtitle>Univ. of Florida</subtitle>
     </iacPerson>
     <iacPerson>
       <name>Paolo Nason</name>
       <subtitle>INFN, Milano Bicocca</subtitle>
+    </iacPerson>
+    <iacPerson>
+      <name>Aleandro Nisati (International Conference Co-Chair)</name>
+      <subtitle>INFN, Roma 1</subtitle>
+    </iacPerson>
+    <iacPerson>
+      <name>Jim Olsen (International Conference Co-Chair)</name>
+      <subtitle>Princeton University</subtitle>
     </iacPerson>
     <iacPerson>
       <name>Giovanni Passaleva</name>
@@ -275,11 +283,11 @@
       <subtitle>INFN, Bologna</subtitle>
     </locPerson>
     <locPerson>
-      <name>Pietro Antonioli</name>
+      <name>Pietro Antonioli (Co-Chair)</name>
       <subtitle>INFN, Bologna</subtitle>
     </locPerson>
     <locPerson>
-      <name>Lorenzo Bellagamba</name>
+      <name>Lorenzo Bellagamba (Scientific Secretary)</name>
       <subtitle>INFN, Bologna</subtitle>
     </locPerson>
     <locPerson>
@@ -287,7 +295,7 @@
       <subtitle>INFN, Bologna</subtitle>
     </locPerson>
     <locPerson>
-      <name>Angelo Carbone</name>
+      <name>Angelo Carbone (Scientific Secretary)</name>
       <subtitle>Univ. &amp; INFN, Bologna</subtitle>
     </locPerson>
     <locPerson>
@@ -307,7 +315,7 @@
       <subtitle>Univ. &amp; INFN, Bologna</subtitle>
     </locPerson>
     <locPerson>
-      <name>Paolo Giacomelli</name>
+      <name>Paolo Giacomelli (Co-Chair)</name>
       <subtitle>INFN, Bologna</subtitle>
     </locPerson>
     <locPerson>
@@ -347,5 +355,8 @@
       <subtitle>Univ. &amp; INFN, Bologna</subtitle>
     </locPerson>
   </locPersons>
-  <codeConduct>TODO: Code Of Conduct LHCP 2018</codeConduct>
+  <codeConduct>
+    It is the policy of the conference as sponsored by the International Union of Pure and Applied Physics (IUPAP) that all participants in Union activities will enjoy an environment which encourages the free expression and exchange of scientific ideas, and is free from all forms of discrimination, harassment, and retaliation. The conference organizers have identified one advisor (Paolo Giacomelli <paolo.giacomelli@bo.infn.it>) who will consult with those who have suffered from harassment and will suggest ways of redressing their problems, and another (Jim Olsen <jolsen@princeton.edu>) who will counsel those accused of harassment. The conference organisers may, after due consideration, take such action they deem appropriate, including warning or expulsion from the conference without refund.
+    If you feel that you have suffered from harassment while attending this conference, please contact Paolo Giacomelli paolo.giacomelli@bo.infn.it.
+   </codeConduct>
 </hepcon>
