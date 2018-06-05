@@ -16,9 +16,13 @@
             In case of any problem contact the organizers: lhcp2018@bo.infn.it</text>
     </notification>    
     <notification>
+      <date>2018-06-05T09:41:30</date>
+      <text>Poster presenters, please upload your poster on the indico agenda ! </text>
+    </notification>        
+    <notification>
       <date>2018-06-04T00:01:30</date>
       <text>Poster presenters can hang their posters on Monday afternoon from 5pm on or on Tuesday morning </text>
-    </notification>        
+    </notification>          
   </notifications>
   <venueLocations>
     <venueLocation>
