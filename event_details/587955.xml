@@ -3,28 +3,8 @@
   <coverImage>http://chep2018.org/sites/default/files/banner-blue.jpg</coverImage>
   <notifications>
     <notification>
-      <date>2018-03-14T19:20:30</date>
-      <text>03-14</text>
-    </notification>
-    <notification>
-      <date>2018-03-19T19:20:30</date>
-      <text>03-19</text>
-    </notification>
-    <notification>
-      <date>2018-03-15T19:20:30</date>
-      <text>03-15</text>
-    </notification>
-    <notification>
-      <date>2018-04-01T19:20:30</date>
-      <text>04-01</text>
-    </notification>
-    <notification>
-      <date>2018-02-14T19:20:30</date>
-      <text>02-14</text>
-    </notification>
-    <notification>
-      <date>2018-03-24T19:20:30</date>
-      <text>03-24</text>
+      <date>2018-06-07T10:20:30</date>
+      <text>Did you book your trip to Sofia?</text>
     </notification>
   </notifications>
   <venueLocations>
