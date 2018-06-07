@@ -63,8 +63,12 @@ Intel will continue to be the foundation for the most important innovations of t
   </sponsors>
   <floors>
     <floor>
-      <title>NDK Floor</title>
-      <mapUrl>http://chep2018.org/sites/default/files/Level1.png</mapUrl>
+      <title>NDK Floor 5</title>
+      <mapUrl>http://chep2018.org/sites/default/files/Floor5.png</mapUrl>
+    </floor>
+    <floor>
+      <title>NDK Floor 6</title>
+      <mapUrl>http://chep2018.org/sites/default/files/Floor6.png</mapUrl>
     </floor>
   </floors>
   <wifi>
