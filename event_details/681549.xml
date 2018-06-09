@@ -11,6 +11,10 @@
       <text>LHCP 2018 is about to start, welcome to Bologna!</text>
     </notification>    
     <notification>
+      <date>2018-06-05T09:41:30</date>
+      <text>Poster presenters, please upload your poster on the indico agenda ! </text>
+</notification>     
+    <notification>
       <date>2018-06-04T00:00:30</date>
       <text>All speakers are strongly recommended to upload their slides by 4pm of the day before the talk.
             In case of any problem contact the organizers: lhcp2018@bo.infn.it</text>
@@ -28,8 +32,8 @@
       </text>
 </notification>     
     <notification>
-      <date>2018-06-04T00:01:30</date>
-      <text>Poster presenters can hang their posters on Monday afternoon from 5pm on or on Tuesday morning </text>
+      <date>2018-06-09T08:50:30</date>
+      <text>Today is the last day of the Conference. Have a safe way back and see you all in Puebla for LHCP 2019 !</text>
     </notification>          
   </notifications>
   <venueLocations>
