@@ -23,6 +23,13 @@
       <longitude>23.3172323</longitude>
     </venueLocation>
     <venueLocation>
+      <title>Central Military Club</title>
+      <activity>Welcome Party</activity>
+      <address>Tsar Osvoboditel Blvd 7, Sofia</address>
+      <latitude>42.695238</latitude>
+      <longitude>23.329635</longitude>
+    </venueLocation>
+    <venueLocation>
       <title>Terminal 1, Sofia Airport</title>
       <activity>Sofia Airport</activity>
       <address>1 Hristofor Columb blvd., 1540 Sofia, Bulgaria</address>
