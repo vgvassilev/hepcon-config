@@ -34,6 +34,13 @@
       <longitude>23.329635</longitude>
     </venueLocation>
     <venueLocation>
+      <title>Efe Hall, Hotel Marinela</title>
+      <activity>Conference Dinner</activity>
+      <address>83 James Bourchier Blvd, 1407 g.k. Lozenets, Sofia, Bulgaria</address>
+      <latitude>42.671451</latitude>
+      <longitude>23.316757</longitude>
+    </venueLocation>
+    <venueLocation>
       <title>Terminal 1, Sofia Airport</title>
       <activity>Sofia Airport</activity>
       <address>1 Hristofor Columb blvd., 1540 Sofia, Bulgaria</address>
