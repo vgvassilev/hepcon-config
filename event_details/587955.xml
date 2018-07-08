@@ -29,14 +29,14 @@
     <venueLocation>
       <title>Central Military Club</title>
       <activity>Welcome Party</activity>
-      <address>Tsar Osvoboditel Blvd 7, Sofia</address>
+      <address>Tsar Osvoboditel Blvd 7, Sofia (Metrostation: Serdika)</address>
       <latitude>42.695238</latitude>
       <longitude>23.329635</longitude>
     </venueLocation>
     <venueLocation>
       <title>Efe Hall, Hotel Marinela</title>
       <activity>Conference Dinner</activity>
-      <address>83 James Bourchier Blvd, 1407 g.k. Lozenets, Sofia, Bulgaria</address>
+      <address>83 James Bourchier Blvd, 1407 g.k. Lozenets, Sofia (Metrostation: James Bourchier)</address>
       <latitude>42.671451</latitude>
       <longitude>23.316757</longitude>
     </venueLocation>
