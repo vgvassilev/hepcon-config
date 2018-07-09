@@ -10,6 +10,10 @@
       <date>2018-06-07T10:20:30</date>
       <text>Did you book your trip to Sofia?</text>
     </notification>
+    <notification>
+      <date>2018-07-09T19:00:00</date>
+      <text>Want to hold a Birds of a Feather Session? Let us know at chep2018-bof@cern.ch. We will annouce them here as the scheduled ones get closer.</text>
+    </notification>
   </notifications>
   <venueLocations>
     <venueLocation>
