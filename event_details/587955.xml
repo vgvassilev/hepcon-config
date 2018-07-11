@@ -3,6 +3,10 @@
   <coverImage>http://chep2018.org/sites/default/files/banner-blue.jpg</coverImage>
   <notifications>
     <notification>
+      <date>2018-07-11T19:00:00</date>
+      <text>BoF Sessions Today (Weds): HammerCloud (11:15 in 8.1), ROOT Web Graphics (14:00 in Hall 8), ROOT Data Frame (14:00 in Hall 7). See link on indico sidebar for more information. Want to hold a Birds of a Feather Session? Let us know at chep2018-bof@cern.ch.</text>
+    </notification>
+    <notification>
       <date>2018-07-09T19:00:00</date>
       <text>Want to hold a Birds of a Feather Session? Let us know at chep2018-bof@cern.ch. We will annouce them here as the scheduled ones get closer.</text>
     </notification>
