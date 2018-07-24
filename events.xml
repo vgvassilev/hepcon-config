@@ -1,5 +1,16 @@
 <events>
   <event>
+    <id>690229</id>
+    <details>https://raw.githubusercontent.com/mvassilev/hepcon-config/master/event_details/690229.xml</details>
+    <url>https://indico.cern.ch/export/timetable/690229.xml</url>
+    <name>TOP 2018</name>
+    <location>Bad Neuenahr</location>
+    <startDate>2018-09-16</startDate>
+    <endDate>2018-09-16</endDate>
+    <timeOffset>02:00</timeOffset>
+    <lastModifiedDate>2018-07-11 09:20 +03:00</lastModifiedDate>
+  </event>
+  <event>
     <id>587955</id>
     <details>https://raw.githubusercontent.com/vgvassilev/hepcon-config/master/event_details/587955.xml</details>
     <url>https://indico.cern.ch/export/timetable/587955.xml</url>
