@@ -1,0 +1,60 @@
+<hepcon>
+  <logoImage></logoImage>
+  <coverImage></coverImage>
+  <notifications>
+    <notification>
+      <date>2018-07-23T12:25:30</date>
+      <text>Welcome to TOP2018</text>
+    </notification>
+  </notifications>
+  <venueLocations>
+    <venueLocation>
+      <title>Example location 1</title>
+      <activity>Conference Center</activity>
+      <address>Bulgaria blvd., 1463 Sofia, Bulgaria</address>
+      <latitude>42.6847251</latitude>
+      <longitude>23.3189384</longitude>
+    </venueLocation>
+  </venueLocations>
+  <sponsors>
+    <sponsor>
+      <name>Test Sponsor</name>
+      <image>http://chep2018.org/sites/default/files/ndk-logo-black.png</image>
+      <description>Test Sponsor</description>
+      <website>http://chep2018.org</website>
+      <tag>Example Tag 1</tag>
+    </sponsor>
+    <sponsor>
+      <name>Test Sponsor2</name>
+      <image>http://chep2018.org/sites/default/files/ndk-logo-black.png</image>
+      <description>Test Sponsor2</description>
+      <website>http://chep2018.org</website>
+      <tag>Example Tag 2</tag>
+    </sponsor>
+  </sponsors>
+  <floors>
+    <floor>
+      <title>Test Floor 1</title>
+      <mapUrl>http://chep2018.org/sites/default/files/Level1.png</mapUrl>
+    </floor>
+  </floors>
+  <wifi>
+    <ssid>Netword</ssid>
+    <password>Password</password>
+  </wifi>
+  <twitterHashtag>#top2018</twitterHashtag>
+  <iacPersons>
+    <iacPerson>
+      <name>Persion 1</name>
+      <subtitle>Affiliation 1</subtitle>
+    </iacPerson>
+  </iacPersons>
+  
+  <locPersons>
+    <locPerson>
+      <name>LOC Person 1</name>
+      <subtitle>LOC Affiliation 1</subtitle>
+    </locPerson>
+  </locPersons>
+  <codeConduct>Code of Conduct</codeConduct>
+</hepcon>
