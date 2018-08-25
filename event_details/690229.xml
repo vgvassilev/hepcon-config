@@ -18,43 +18,118 @@
   </venueLocations>
   <sponsors>
     <sponsor>
-      <name>Test Sponsor</name>
-      <image>http://chep2018.org/sites/default/files/ndk-logo-black.png</image>
-      <description>Test Sponsor</description>
+      <name>DFG</name>
+      <image>https://indico.cern.ch/event/690229/images/18067-dfg_logo_schriftzug_blau.jpg</image>
+      <description>DFG</description>
       <website>http://chep2018.org</website>
-      <tag>Example Tag 1</tag>
+      <tag>sponsor</tag>
     </sponsor>
     <sponsor>
-      <name>Test Sponsor2</name>
-      <image>http://chep2018.org/sites/default/files/ndk-logo-black.png</image>
-      <description>Test Sponsor2</description>
-      <website>http://chep2018.org</website>
-      <tag>Example Tag 2</tag>
+      <name>COST</name>
+      <image>https://indico.cern.ch/event/690229/images/18434-logo-cost-flag-eu.jpg</image>
+      <description>COST</description>
+      <website></website>
+      <tag>sponsor</tag>
     </sponsor>
   </sponsors>
   <floors>
     <floor>
-      <title>Test Floor 1</title>
-      <mapUrl>http://chep2018.org/sites/default/files/Level1.png</mapUrl>
+      <title>Ground Level</title>
+      <mapUrl>http://chep2018.org/sites/default/files/Floor_plan_TOP2018_conference_level.pdf</mapUrl>
+    </floor>
+    <floor>
+      <title>Hotel Ground Level</title>
+      <mapUrl>http://chep2018.org/sites/default/files/Floor_plan_TOP2018_hotel_ground_level.pdf</mapUrl>
     </floor>
   </floors>
   <wifi>
-    <ssid>Netword</ssid>
-    <password>Password</password>
+    <ssid></ssid>
+    <password></password>
   </wifi>
   <twitterHashtag>#top2018</twitterHashtag>
   <iacPersons>
     <iacPerson>
-      <name>Persion 1</name>
-      <subtitle>Affiliation 1</subtitle>
+      <name>António Onofre (chair)</name>
+      <subtitle>U. Minho/LIP</subtitle>
+    </iacPerson>
+    <iacPerson>
+      <name>María Aldaya Martín</name>
+      <subtitle>DESY</subtitle>
+    </iacPerson>
+    <iacPerson>
+      <name>Fabrizio Caola</name>
+      <subtitle>CERN</subtitle>
+    </iacPerson>
+    <iacPerson>
+      <name>Jorgen D’Hondt</name>
+      <subtitle>Brussels</subtitle>
+    </iacPerson>
+    <iacPerson>
+      <name>Fabio Maltoni</name>
+      <subtitle>UC Louvain</subtitle>
+    </iacPerson>
+    <iacPerson>
+      <name>Michelangelo Mangano</name>
+      <subtitle>CERN</subtitle>
+    </iacPerson>
+    <iacPerson>
+      <name>Alexander Mitov</name>
+      <subtitle>Cambridge</subtitle>
+    </iacPerson>
+    <iacPerson>
+      <name>Gilad Perez</name>
+      <subtitle>Weizmann</subtitle>
+    </iacPerson>
+    <iacPerson>
+      <name>Reinhard Schwienhorst</name>
+      <subtitle>Michigan State</subtitle>
+    </iacPerson>
+    <iacPerson>
+      <name>Michael Spannowsky</name>
+      <subtitle>Durham</subtitle>
+    </iacPerson>
+    <iacPerson>
+      <name>Roberto Tenchini</name>
+      <subtitle>INFN Pisa</subtitle>
     </iacPerson>
   </iacPersons>
-  
   <locPersons>
     <locPerson>
-      <name>LOC Person 1</name>
-      <subtitle>LOC Affiliation 1</subtitle>
+      <name>Wolfgang Wagner (chair)</name>
+      <subtitle>Wuppertal</subtitle>
+    </locPerson>
+    <locPerson>
+      <name>Ian Brock</name>
+      <subtitle>Bonn</subtitle>
+    </locPerson>
+    <locPerson>
+      <name>Markus Cristinziani</name>
+      <subtitle>Bonn</subtitle>
+    </locPerson>
+    <locPerson>
+      <name>Michael Czakon</name>
+      <subtitle>RWTH Aachen</subtitle>
+    </locPerson>
+    <locPerson>
+      <name>Martin Erdmann</name>
+      <subtitle>RWTH Aachen</subtitle>
+    </locPerson>
+    <locPerson>
+      <name>Ivor Fleck</name>
+      <subtitle>Siegen</subtitle>
+    </locPerson>
+    <locPerson>
+      <name>Dominic Hirschbühl</name>
+      <subtitle>Wuppertal</subtitle>
+    </locPerson>
+    <locPerson>
+      <name>Kevin Kröninger</name>
+      <subtitle>TU Dortmund</subtitle>
+    </locPerson>
+    <locPerson>
+      <name>Małgorzata Worek</name>
+      <subtitle>RWTH Aachen</subtitle>
     </locPerson>
   </locPersons>
-  <codeConduct>Code of Conduct</codeConduct>
+  <codeConduct></codeConduct>
 </hepcon>
