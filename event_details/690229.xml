@@ -9,11 +9,11 @@
   </notifications>
   <venueLocations>
     <venueLocation>
-      <title>Example location 1</title>
+      <title>Conference Venue</title>
       <activity>Conference Center</activity>
-      <address>Bulgaria blvd., 1463 Sofia, Bulgaria</address>
-      <latitude>42.6847251</latitude>
-      <longitude>23.3189384</longitude>
+      <address>Kurgartenstrasse 1, 53474, Bad Neuenahr, Germany</address>
+      <latitude>50.5421656</latitude>
+      <longitude>7.1370363</longitude>
     </venueLocation>
   </venueLocations>
   <sponsors>
