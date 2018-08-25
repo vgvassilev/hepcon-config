@@ -21,30 +21,30 @@
       <name>DFG</name>
       <image>https://indico.cern.ch/event/690229/images/18067-dfg_logo_schriftzug_blau.jpg</image>
       <description>DFG</description>
-      <website>http://chep2018.org</website>
-      <tag>sponsor</tag>
+      <website>http://www.dfg.de/</website>
+      <tag>Sponsor</tag>
     </sponsor>
     <sponsor>
       <name>COST</name>
       <image>https://indico.cern.ch/event/690229/images/18434-logo-cost-flag-eu.jpg</image>
       <description>COST</description>
-      <website></website>
-      <tag>sponsor</tag>
+      <website>http://www.cost.eu/</website>
+      <tag>Sponsor</tag>
     </sponsor>
   </sponsors>
   <floors>
     <floor>
       <title>Ground Level</title>
-      <mapUrl>http://chep2018.org/sites/default/files/Floor_plan_TOP2018_conference_level.pdf</mapUrl>
+      <mapUrl>http://chep2018.org/sites/default/files/Floor_plan_TOP2018_conference_level.png</mapUrl>
     </floor>
     <floor>
       <title>Hotel Ground Level</title>
-      <mapUrl>http://chep2018.org/sites/default/files/Floor_plan_TOP2018_hotel_ground_level.pdf</mapUrl>
+      <mapUrl>http://chep2018.org/sites/default/files/Floor_plan_TOP2018_hotel_ground_level.png</mapUrl>
     </floor>
   </floors>
   <wifi>
-    <ssid></ssid>
-    <password></password>
+    <ssid>N/A</ssid>
+    <password>N/A</password>
   </wifi>
   <twitterHashtag>#top2018</twitterHashtag>
   <iacPersons>
@@ -131,5 +131,5 @@
       <subtitle>RWTH Aachen</subtitle>
     </locPerson>
   </locPersons>
-  <codeConduct></codeConduct>
+  <codeConduct>N/A</codeConduct>
 </hepcon>
