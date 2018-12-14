@@ -11,9 +11,9 @@
     <venueLocation>
       <title>Conference Venue</title>
       <activity>Conference Center</activity>
-      <address></address>
-      <latitude></latitude>
-      <longitude></longitude>
+      <address>Bulgaria blvd., 1463 Sofia, Bulgaria</address>
+      <latitude>42.685441</latitude>
+      <longitude>23.319028</longitude>
     </venueLocation>
   </venueLocations>
   <sponsors>
