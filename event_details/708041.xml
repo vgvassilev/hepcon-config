@@ -1,0 +1,56 @@
+<hepcon>
+  <logoImage></logoImage>
+  <coverImage></coverImage>
+  <notifications>
+    <notification>
+      <date>2018-12-14T12:25:30</date>
+      <text>Welcome to ACAT2019</text>
+    </notification>
+  </notifications>
+  <venueLocations>
+    <venueLocation>
+      <title>Conference Venue</title>
+      <activity>Conference Center</activity>
+      <address></address>
+      <latitude></latitude>
+      <longitude></longitude>
+    </venueLocation>
+  </venueLocations>
+  <sponsors>
+    <sponsor>
+      <name>Sponsor 1</name>
+      <image></image>
+      <description>Sponsor 1 dec</description>
+      <website>Sponsor 1 web</website>
+      <tag>Sponsor</tag>
+    </sponsor>
+  </sponsors>
+  <floors>
+    <floor>
+      <title>Ground Level</title>
+      <mapUrl>http://chep2018.org/sites/default/files/Floor_plan_TOP2018_conference_level.png</mapUrl>
+    </floor>
+    <floor>
+      <title>Hotel Ground Level</title>
+      <mapUrl>http://chep2018.org/sites/default/files/Floor_plan_TOP2018_hotel_ground_level.png</mapUrl>
+    </floor>
+  </floors>
+  <wifi>
+    <ssid>N/A</ssid>
+    <password>N/A</password>
+  </wifi>
+  <twitterHashtag>#acat2019</twitterHashtag>
+  <iacPersons>
+    <iacPerson>
+      <name>Person 1</name>
+      <subtitle>Person 1 details</subtitle>
+    </iacPerson>
+  </iacPersons>
+  <locPersons>
+    <locPerson>
+      <name>Person 1</name>
+      <subtitle>Person 1 details</subtitle>
+    </locPerson>
+  </locPersons>
+  <codeConduct>N/A</codeConduct>
+</hepcon>
