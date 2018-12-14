@@ -1,6 +1,17 @@
 <events>
   <event>
     <id>690229</id>
+    <details>https://raw.githubusercontent.com/vgvassilev/hepcon-config/master/event_details/708041.xml</details>
+    <url>https://indico.cern.ch/export/timetable/708041.xml</url>
+    <name>ACAT 2019</name>
+    <location>Saas Fee, Switzerland</location>
+    <startDate>2019-03-11</startDate>
+    <endDate>2019-03-15</endDate>
+    <timeOffset>02:00</timeOffset>
+    <lastModifiedDate>2018-12-14 12:36 +03:00</lastModifiedDate>
+  </event>
+  <event>
+    <id>690229</id>
     <details>https://raw.githubusercontent.com/vgvassilev/hepcon-config/master/event_details/690229.xml</details>
     <url>https://indico.cern.ch/export/timetable/690229.xml</url>
     <name>TOP 2018</name>
