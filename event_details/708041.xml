@@ -31,7 +31,7 @@
       <mapUrl>https://raw.githubusercontent.com/vgvassilev/hepcon-config/master/art/ACAT2019_plenum.png</mapUrl>
     </floor>
     <floor>
-      <title>Seminar & Breakout Rooms</title>
+      <title>Seminar / Breakout Rooms</title>
       <mapUrl>https://raw.githubusercontent.com/vgvassilev/hepcon-config/master/art/ACAT2019_seminar.png</mapUrl>
     </floor>
   </floors>
