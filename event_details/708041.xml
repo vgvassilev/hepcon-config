@@ -15,6 +15,13 @@
       <latitude>46.111379</latitude>
       <longitude>7.929412</longitude>
     </venueLocation>
+    <venueLocation>
+      <title>Hotel Dom Bar</title>
+      <activity>Social Drink, Registration, Break, Lunch, Social event location</activity>
+      <address>Lomattenstrasse 7, Saas-Fee 3906, Switzerland</address>
+      <latitude>46.1071062</latitude>
+      <longitude>7.9249913</longitude>
+    </venueLocation>
   </venueLocations>
   <sponsors>
     
