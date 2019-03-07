@@ -1,6 +1,6 @@
 <hepcon>
   <logoImage></logoImage>
-  <coverImage></coverImage>
+  <coverImage>https://indico.cern.ch/event/708041/logo-901810889.png</coverImage>
   <notifications>
     <notification>
       <date>2018-12-14T12:25:30</date>
@@ -28,11 +28,11 @@
   <floors>
     <floor>
       <title>Ground Level</title>
-      <mapUrl>http://chep2018.org/sites/default/files/Floor_plan_TOP2018_conference_level.png</mapUrl>
+      <mapUrl></mapUrl>
     </floor>
     <floor>
       <title>Hotel Ground Level</title>
-      <mapUrl>http://chep2018.org/sites/default/files/Floor_plan_TOP2018_hotel_ground_level.png</mapUrl>
+      <mapUrl></mapUrl>
     </floor>
   </floors>
   <wifi>
@@ -42,14 +42,110 @@
   <twitterHashtag>#acat2019</twitterHashtag>
   <iacPersons>
     <iacPerson>
-      <name>Person 1</name>
-      <subtitle>Person 1 details</subtitle>
+      <name>Andrej Arbuzov</name>
+      <subtitle>BLTP JINR</subtitle>
+    </iacPerson>
+    <iacPerson>
+      <name>Pushpalatha Bhat</name>
+      <subtitle>Fermilab</subtitle>
+    </iacPerson>
+    <iacPerson>
+      <name>David Britton</name>
+      <subtitle>Glasgow Univ.</subtitle>
+    </iacPerson>
+    <iacPerson>
+      <name>Federico Carminati, SPC chair</name>
+      <subtitle>CERN</subtitle>
+    </iacPerson>
+    <iacPerson>
+      <name>Gang Chen</name>
+      <subtitle>IHEP</subtitle>
+    </iacPerson>
+    <iacPerson>
+      <name>Denis Oliveira Damazio</name>
+      <subtitle>BNL</subtitle>
+    </iacPerson>
+    <iacPerson>
+      <name>Bruce Denby</name>
+      <subtitle>U. Pierre et Marie Curie</subtitle>
+    </iacPerson>
+    <iacPerson>
+      <name>Junpei Fujimoto</name>
+      <subtitle>KEK</subtitle>
+    </iacPerson>
+    <iacPerson>
+      <name>Clara Gaspar</name>
+      <subtitle>CERN</subtitle>
+    </iacPerson>
+    <iacPerson>
+      <name>Gudrun Heinrich</name>
+      <subtitle>MPI-Munich</subtitle>
+    </iacPerson>
+    <iacPerson>
+      <name>Andrei Kataev</name>
+      <subtitle>INR</subtitle>
+    </iacPerson>
+    <iacPerson>
+      <name>Alexander Kryukov</name>
+      <subtitle>SINP</subtitle>
+    </iacPerson>
+    <iacPerson>
+      <name>Jerome Lauret</name>
+      <subtitle>BNL</subtitle>
+    </iacPerson>
+    <iacPerson>
+      <name>Milos Lokajicek</name>
+      <subtitle>FZU Prague</subtitle>
+    </iacPerson>
+    <iacPerson>
+      <name>Daniel Maitre</name>
+      <subtitle>Durham</subtitle>
+    </iacPerson>
+    <iacPerson>
+      <name>Axel Naumann</name>
+      <subtitle>CERN</subtitle>
+    </iacPerson>
+    <iacPerson>
+      <name>Denis Perret-Gallix, IAC Chair</name>
+      <subtitle>IN2P3/CNRS</subtitle>
+    </iacPerson>
+    <iacPerson>
+      <name>Fons Rademakers, LOC Chair</name>
+      <subtitle>CERN</subtitle>
+    </iacPerson>
+    <iacPerson>
+      <name>Grigory Rubtsov</name>
+      <subtitle>INR</subtitle>
+    </iacPerson>
+    <iacPerson>
+      <name>Luis Salinas</name>
+      <subtitle>UTFSM</subtitle>
+    </iacPerson>
+    <iacPerson>
+      <name>Jose Seixas</name>
+      <subtitle>Rio de Janeiro Federal Univ.</subtitle>
+    </iacPerson>
+    <iacPerson>
+      <name>Liliana Teodorescu</name>
+      <subtitle>Brunel Univ.</subtitle>
+    </iacPerson>
+    <iacPerson>
+      <name>Gordon T. Watts</name>
+      <subtitle>University of Washington</subtitle>
+    </iacPerson>
+    <iacPerson>
+      <name>Monique Werlen</name>
+      <subtitle>LAPTH</subtitle>
     </iacPerson>
   </iacPersons>
   <locPersons>
     <locPerson>
-      <name>Person 1</name>
-      <subtitle>Person 1 details</subtitle>
+      <name>Fons Rademakers</name>
+      <subtitle>Chair</subtitle>
+    </locPerson>
+    <locPerson>
+      <name>Federico Carminati</name>
+      <subtitle>Co-Chair</subtitle>
     </locPerson>
   </locPersons>
   <codeConduct>N/A</codeConduct>
