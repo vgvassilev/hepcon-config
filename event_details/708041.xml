@@ -22,6 +22,20 @@
       <latitude>46.1071062</latitude>
       <longitude>7.9249913</longitude>
     </venueLocation>
+    <venueLocation>
+      <title>Hotel DuGlacier</title>
+      <activity>Break, Lunch</activity>
+      <address>Blomattenstrasse 2, Saas-Fee 3906, Switzerland</address>
+      <latitude>46.1074912</latitude>
+      <longitude>7.9255481</longitude>
+    </venueLocation>
+    <venueLocation>
+      <title>Steinmatte Conference Center, Allalin Hotel</title>
+      <activity>Coffee break</activity>
+      <address>Lomattenstrasse 7, Saas-Fee 3906, Switzerland</address>
+      <latitude>46.111379</latitude>
+      <longitude>7.929412</longitude>
+    </venueLocation>
   </venueLocations>
   <sponsors>
     
