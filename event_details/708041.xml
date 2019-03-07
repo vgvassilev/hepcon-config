@@ -1,6 +1,6 @@
 <hepcon>
   <logoImage></logoImage>
-  <coverImage>https://indico.cern.ch/event/708041/logo-901810889.png</coverImage>
+  <coverImage>https://raw.githubusercontent.com/vgvassilev/hepcon-config/master/art/ACAT2019_cover.png</coverImage>
   <notifications>
     <notification>
       <date>2018-12-14T12:25:30</date>
