@@ -1,5 +1,16 @@
 <events>
   <event>
+    <id>814979</id>
+    <details>https://raw.githubusercontent.com/vgvassilev/hepcon-config/master/event_details/814979.xml</details>
+    <url>https://indico.cern.ch/export/timetable/814979.xml</url>
+    <name>Third Computational and Data Science school for HEP</name>
+    <location>Princeton University</location>
+    <startDate>2019-07-22</startDate>
+    <endDate>2019-07-26</endDate>
+    <timeOffset>02:00</timeOffset>
+    <lastModifiedDate>2019-07-22 17:24 +03:00</lastModifiedDate>
+  </event>
+  <event>
     <id>708041</id>
     <details>https://raw.githubusercontent.com/vgvassilev/hepcon-config/master/event_details/708041.xml</details>
     <url>https://indico.cern.ch/export/timetable/708041.xml</url>
