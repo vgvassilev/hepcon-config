@@ -1,0 +1,47 @@
+<hepcon>
+  <logoImage></logoImage>
+  <coverImage></coverImage>
+  <notifications>
+    <notification>
+      <date>2019-207-22T12:25:30</date>
+      <text>Welcome to the Third Computational and Data Science school for HEP</text>
+    </notification>
+  </notifications>
+  <venueLocations>
+    <venueLocation>
+      <title></title>
+      <activity></activity>
+      <address></address>
+      <latitude></latitude>
+      <longitude></longitude>
+    </venueLocation>
+  </venueLocations>
+  <sponsors>
+    
+  </sponsors>
+  <floors>
+    <floor>
+      <title></title>
+      <mapUrl></mapUrl>
+    </floor>
+  </floors>
+  <wifi>
+    <ssid></ssid>
+    <password></password>
+  </wifi>
+  <twitterHashtag></twitterHashtag>
+  <iacPersons>
+    <iacPerson>
+      <name></name>
+      <subtitle></subtitle>
+    </iacPerson>
+  </iacPersons>
+  <locPersons>
+    <locPerson>
+      <name></name>
+      <subtitle></subtitle>
+    </locPerson>
+  </locPersons>
+  <codeConduct>
+  </codeConduct>
+</hepcon>
