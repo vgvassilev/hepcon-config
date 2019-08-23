@@ -1,6 +1,6 @@
 <events>
   <event>
-    <id>681549</id>
+    <id>773049</id>
     <details>https://raw.githubusercontent.com/vgvassilev/hepcon-config/master/event_details/773049.xml</details>
     <url>https://indico.cern.ch/export/timetable/773049.xml</url>
     <name>CHEP 2019</name>
@@ -8,7 +8,7 @@
     <startDate>2019-11-04</startDate>
     <endDate>2019-11-08</endDate>
     <timeOffset>02:00</timeOffset>
-    <lastModifiedDate>2019-08-22 10:22 +09:30</lastModifiedDate>
+    <lastModifiedDate>2019-08-23 10:26 +09:30</lastModifiedDate>
   </event>
   <event>
     <id>814979</id>
