@@ -9,11 +9,11 @@
   </notifications>
   <venueLocations>
     <venueLocation>
-      <title></title>
-      <activity></activity>
-      <address></address>
-      <latitude></latitude>
-      <longitude></longitude>
+      <title>Adelaide Convention Centre, Adelaide, Australia</title>
+      <activity>Conference Center</activity>
+      <address>Adelaide Convention Centre, Festival Drive, Adelaide SA 5000, Australia</address>
+      <latitude>-34.9209138</latitude>
+      <longitude>138.5943519</longitude>
     </venueLocation>
   </venueLocations>
   <sponsors>
