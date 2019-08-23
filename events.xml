@@ -54,4 +54,15 @@
     <timeOffset>02:00</timeOffset>
     <lastModifiedDate>2018-08-25 13:55 +03:00</lastModifiedDate>
   </event>
+  <event>
+    <id>681549</id>
+    <details>https://raw.githubusercontent.com/vgvassilev/hepcon-config/master/event_details/773049.xml</details>
+    <url>https://indico.cern.ch/export/timetable/773049.xml</url>
+    <name>CHEP 2019</name>
+    <location>Adelaide, Australia</location>
+    <startDate>2019-11-04</startDate>
+    <endDate>2019-11-08</endDate>
+    <timeOffset>02:00</timeOffset>
+    <lastModifiedDate>2019-08-22 10:10 +09:30</lastModifiedDate>
+  </event>
 </events>
