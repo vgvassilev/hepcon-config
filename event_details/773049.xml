@@ -21,8 +21,8 @@
   </sponsors>
   <floors>
     <floor>
-      <title></title>
-      <mapUrl></mapUrl>
+      <title>Floor Map</title>
+      <mapUrl>https://indico.cern.ch/event/773049/images/26470-CHEP-Floor-Plan.png</mapUrl>
     </floor>
   </floors>
   <wifi>
