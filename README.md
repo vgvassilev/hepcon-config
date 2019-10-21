@@ -25,7 +25,7 @@ HEPCon can:
 
 ## Current release
 
-HEPCon 2.2 is available in [Apple Store](https://itunes.apple.com/us/app/hepcon/id1286500651?platform=iphone&preserveScrollPosition=true#platform/iphone) and [Google Play](https://play.google.com/store/apps/details?id=com.hepcon.chep2018&hl=en_GB).
+The latest version of HEPCon is available in [Apple Store](https://itunes.apple.com/us/app/hepcon/id1286500651?platform=iphone&preserveScrollPosition=true#platform/iphone) and [Google Play](https://play.google.com/store/apps/details?id=com.hepcon.chep2018&hl=en_GB).
 
 
 ## Screenshots
