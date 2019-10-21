@@ -6,6 +6,9 @@ The hepcon-config github repository contains configuration files for the [HEPCon
 
   * [LHCP 2018](https://indico.cern.ch/event/681549) -- The 6th Annual Large Hadron Collider Physics Conference.
   * [CHEP 2018](https://indico.cern.ch/event/587955) -- The 23rd International Conference on Computing in High-Energy and Nuclear Physics.
+  * [ACAT 2018](https://indico.cern.ch/event/708041) -- The 19th International Workshop on Advanced Computing and Analysis Techniques in Physics Research.
+  * [TOP 2018](https://indico.cern.ch/event/690229) -- The 11th International Workshop on Top Quark Physics.
+  * [CHEP 2019](https://indico.cern.ch/event/773049) -- The 24th International Conference on Computing in High-Energy and Nuclear Physics.
 
 # HEPCon - the High-Energy Physics Conference Mobile App
 
