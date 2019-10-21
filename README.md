@@ -20,6 +20,7 @@ HEPCon can:
 * View tweets;
 * Preview events like sessions and breaks and add them to your calendar;
 * Preview, rate, filter contributions and add them to favorites and to calendar;
+* Use the device navigation system to get to the important places such as conference venue, and the conference dinner;
 * Use the Archive for previewing data from past conferences;
 * Obtain information about the venue, sponsors, etc.
 
