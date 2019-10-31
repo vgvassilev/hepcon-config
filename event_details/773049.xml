@@ -26,8 +26,8 @@
     </floor>
   </floors>
   <wifi>
-    <ssid></ssid>
-    <password></password>
+    <ssid>CHEP2019</ssid>
+    <password>Adelaide2019</password>
   </wifi>
   <twitterHashtag>#chep2019</twitterHashtag>
   <iacPersons>
