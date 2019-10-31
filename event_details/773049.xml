@@ -17,7 +17,54 @@
     </venueLocation>
   </venueLocations>
   <sponsors>
-    
+    <sponsor>
+      <name>PAWSEY</name>
+      <image>http://chep2019.org/images/pawsey_logo_small.png</image>
+      <description>The Pawsey Supercomputing Centre is an unincorporated joint venture between CSIRO, Curtin University, Edith Cowan University, Murdoch University and The University of Western Australia. It is supported by the Western Australian and Federal Governments.</description>
+      <website>https://pawsey.org.au/</website>
+      <level>1</level>
+      <tag>Silver Sponsor</tag>
+    </sponsor>
+    <sponsor>
+      <name>Micron</name>
+      <image>http://chep2019.org/images/micron_logo_small.png</image>
+      <description>Micron is a world leader in innovative memory solutions that transform how the world uses information. For over 40 years, our company has been instrumental to the world’s most significant technology advancements, delivering optimal memory and storage systems for a broad range of applications.</description>
+      <website>https://www.micron.com</website>
+      <level>1</level>
+      <tag>Silver Sponsor</tag>
+    </sponsor>
+    <sponsor>
+      <name>DDN</name>
+      <image>http://chep2019.org/images/ddn_storage_small.png</image>
+      <description>For 20 years, DDN has designed, developed, deployed and optimized systems, software and storage solutions that enable enterprises, service providers, universities and government agencies to generate more value and to accelerate time to insight from their data and information, on premise and in the cloud.</description>
+      <website>https://www.ddn.com</website>
+      <level>2</level>
+      <tag>Bronze Sponsor</tag>
+    </sponsor>
+    <sponsor>
+      <name>NCI Australia</name>
+      <image>http://chep2019.org/images/nci_logo_small.png</image>
+      <description>The National Computational Infrastructure (NCI) is Australia’s leading high-performance data, storage and computing organisation, providing expert services to benefit all domains of science, government and industry.</description>
+      <website>https://nci.org.au</website>
+      <level>2</level>
+      <tag>Bronze Sponsor</tag>
+    </sponsor>
+    <sponsor>
+      <name>E4</name>
+      <image>http://chep2019.org/images/e4_logo_small.png</image>
+      <description>Since 2002, E4 has been innovating and actively encouraging the adoption of new computing and storage technologies. With a comprehensive range of hardware, software and services, we are able to offer you solutions for the most demanding workloads on: HPC, Big-Data, AI, Deep Learning, Data Analytics, Cognitive Computing and much more. We take an agnostic approach towards the many technologies available on the market. This allows us to devise and offer the best solution tailored to customer needs.</description>
+      <website>https://www.e4company.com</website>
+      <level>2</level>
+      <tag>Bronze Sponsor</tag>
+    </sponsor>
+    <sponsor>
+      <name>IUPAP</name>
+      <image>http://chep2019.org/images/2019_IUPAP_logo_small.png</image>
+      <description>The International Union of Pure and Applied Physics (IUPAP) was established in 1922 in Brussels with 13 Member countries and the first General Assembly was held in 1923 in Paris.</description>
+      <website>http://iupap.org</website>
+      <level>3</level>
+      <tag>Other Sponsor</tag>
+    </sponsor>
   </sponsors>
   <floors>
     <floor>
