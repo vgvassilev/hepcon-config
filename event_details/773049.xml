@@ -234,8 +234,40 @@
   </iacPersons>
   <locPersons>
     <locPerson>
-      <name></name>
-      <subtitle></subtitle>
+      <name>Anthony Thomas</name>
+      <subtitle>Adelaide</subtitle>
+    </locPerson>
+    <locPerson>
+      <name>Anthony Williams</name>
+      <subtitle>Adelaide</subtitle>
+    </locPerson>
+    <locPerson>
+      <name>Derek Leinweber</name>
+      <subtitle>Adelaide</subtitle>
+    </locPerson>
+    <locPerson>
+      <name>Jacinda Ginges</name>
+      <subtitle>UQ</subtitle>
+    </locPerson>
+    <locPerson>
+      <name>James Zanotti</name>
+      <subtitle>Adelaide</subtitle>
+    </locPerson>
+    <locPerson>
+      <name>Martin Sevior</name>
+      <subtitle>Melbourne</subtitle>
+    </locPerson>
+    <locPerson>
+      <name>Martin White</name>
+      <subtitle>Adelaide</subtitle>
+    </locPerson>
+    <locPerson>
+      <name>Peter Skands</name>
+      <subtitle>Monash</subtitle>
+    </locPerson>
+    <locPerson>
+      <name>Ross Young</name>
+      <subtitle>Adelaide</subtitle>
     </locPerson>
   </locPersons>
   <codeConduct>
