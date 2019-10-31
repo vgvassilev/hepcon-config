@@ -32,8 +32,204 @@
   <twitterHashtag>#chep2019</twitterHashtag>
   <iacPersons>
     <iacPerson>
-      <name></name>
-      <subtitle></subtitle>
+      <name>Alessandra Forti</name>
+      <subtitle>Manchester</subtitle>
+    </iacPerson>
+    <iacPerson>
+      <name>Amber Boehnlein</name>
+      <subtitle>JLab</subtitle>
+    </iacPerson>
+    <iacPerson>
+      <name>Andreas Wicenec</name>
+      <subtitle>UWA/ICRAR</subtitle>
+    </iacPerson>
+    <iacPerson>
+      <name>Concezio Bozzi</name>
+      <subtitle>INFN Ferrara</subtitle>
+    </iacPerson>
+    <iacPerson>
+      <name>David Britton</name>
+      <subtitle>Glasgow</subtitle>
+    </iacPerson>
+    <iacPerson>
+      <name>David Groep</name>
+      <subtitle>Nikhef</subtitle>
+    </iacPerson>
+    <iacPerson>
+      <name>Davide Costanzo</name>
+      <subtitle>Sheffield</subtitle>
+    </iacPerson>
+    <iacPerson>
+      <name>Caterina Doglioni (PC Co-chair)</name>
+      <subtitle>Lund</subtitle>
+    </iacPerson>
+    <iacPerson>
+      <name>Doris Kim (PC Co-chair)</name>
+      <subtitle>Soongsil</subtitle>
+    </iacPerson>
+    <iacPerson>
+      <name>Elizabeth Sexton-Kennedy</name>
+      <subtitle>FNAL</subtitle>
+    </iacPerson>
+    <iacPerson>
+      <name>Gang Chen</name>
+      <subtitle>IHEP</subtitle>
+    </iacPerson>
+    <iacPerson>
+      <name>Ghita Rahal</name>
+      <subtitle>CC-IN2P3</subtitle>
+    </iacPerson>
+    <iacPerson>
+      <name>Gonzalo Merino</name>
+      <subtitle>Wisconsin</subtitle>
+    </iacPerson>
+    <iacPerson>
+      <name>Gordon Watts</name>
+      <subtitle>Washington</subtitle>
+    </iacPerson>
+    <iacPerson>
+      <name>Graeme A. Stewart (PC Co-chair)</name>
+      <subtitle>CERN</subtitle>
+    </iacPerson>
+    <iacPerson>
+      <name>Hannah Short</name>
+      <subtitle>CERN</subtitle>
+    </iacPerson>
+    <iacPerson>
+      <name>Heather Gray</name>
+      <subtitle>UC Berkeley/LBNL</subtitle>
+    </iacPerson>
+    <iacPerson>
+      <name>Ian Bird</name>
+      <subtitle>CERN</subtitle>
+    </iacPerson>
+    <iacPerson>
+      <name>Ikuo Ueda</name>
+      <subtitle>KEK</subtitle>
+    </iacPerson>
+    <iacPerson>
+      <name>Jerome Lauret</name>
+      <subtitle>BNL</subtitle>
+    </iacPerson>
+    <iacPerson>
+      <name>Josep Flix</name>
+      <subtitle>PIC/CIEMAT</subtitle>
+    </iacPerson>
+    <iacPerson>
+      <name>Julia Andreeva</name>
+      <subtitle>CERN</subtitle>
+    </iacPerson>
+    <iacPerson>
+      <name>Latchezar Betev</name>
+      <subtitle>CERN</subtitle>
+    </iacPerson>
+    <iacPerson>
+      <name>Lucia Silvestris (PC Co-chair)</name>
+      <subtitle>INFN Bari</subtitle>
+    </iacPerson>
+    <iacPerson>
+      <name>Maarten Litmaath</name>
+      <subtitle>CERN</subtitle>
+    </iacPerson>
+    <iacPerson>
+      <name>Marco Cattaneo</name>
+      <subtitle>CERN</subtitle>
+    </iacPerson>
+    <iacPerson>
+      <name>Maria Girone</name>
+      <subtitle>CERN</subtitle>
+    </iacPerson>
+    <iacPerson>
+      <name>Markus Klute</name>
+      <subtitle>MIT</subtitle>
+    </iacPerson>
+    <iacPerson>
+      <name>Michel Jouvin</name>
+      <subtitle>IN2P3 - Orsay</subtitle>
+    </iacPerson>
+    <iacPerson>
+      <name>Michel Vetterli</name>
+      <subtitle>Simon Fraser/TRIUMF</subtitle>
+    </iacPerson>
+    <iacPerson>
+      <name>Minh Huynh</name>
+      <subtitle>UWA/ICRAR-CSIRO</subtitle>
+    </iacPerson>
+    <iacPerson>
+      <name>Mohammad Al-Turany</name>
+      <subtitle>GSI</subtitle>
+    </iacPerson>
+    <iacPerson>
+      <name>Niko Neufeld</name>
+      <subtitle>CERN</subtitle>
+    </iacPerson>
+    <iacPerson>
+      <name>Oxana Smirnova</name>
+      <subtitle>Lund</subtitle>
+    </iacPerson>
+    <iacPerson>
+      <name>Patrick Fuhrmann</name>
+      <subtitle>DESY</subtitle>
+    </iacPerson>
+    <iacPerson>
+      <name>Peter Clarke</name>
+      <subtitle>Edinburgh</subtitle>
+    </iacPerson>
+    <iacPerson>
+      <name>Peter Elmer</name>
+      <subtitle>Princeton</subtitle>
+    </iacPerson>
+    <iacPerson>
+      <name>Peter Hristov</name>
+      <subtitle>CERN</subtitle>
+    </iacPerson>
+    <iacPerson>
+      <name>Petya Vasileva</name>
+      <subtitle>CERN</subtitle>
+    </iacPerson>
+    <iacPerson>
+      <name>Randall Sobie</name>
+      <subtitle>Victoria</subtitle>
+    </iacPerson>
+    <iacPerson>
+      <name>Richard Mount</name>
+      <subtitle>SLAC</subtitle>
+    </iacPerson>
+    <iacPerson>
+      <name>Sang Un Ahn</name>
+      <subtitle>KISTI</subtitle>
+    </iacPerson>
+    <iacPerson>
+      <name>Simon Lin</name>
+      <subtitle>Academia Sinica</subtitle>
+    </iacPerson>
+    <iacPerson>
+      <name>Simone Campana</name>
+      <subtitle>CERN</subtitle>
+    </iacPerson>
+    <iacPerson>
+      <name>Takanori Hara</name>
+      <subtitle>KEK</subtitle>
+    </iacPerson>
+    <iacPerson>
+      <name>Tommaso Boccali</name>
+      <subtitle>INFN Pisa</subtitle>
+    </iacPerson>
+    <iacPerson>
+      <name>Torre Wenaus</name>
+      <subtitle>BNL</subtitle>
+    </iacPerson>
+    <iacPerson>
+      <name>Vasil Georgiev Vasilev</name>
+      <subtitle>Princeton</subtitle>
+    </iacPerson>
+    <iacPerson>
+      <name>Wahid Bhimji</name>
+      <subtitle>NERSC/LBNL</subtitle>
+    </iacPerson>
+    <iacPerson>
+      <name>Xiaomei Zhang</name>
+      <subtitle>IHEP</subtitle>
     </iacPerson>
   </iacPersons>
   <locPersons>
